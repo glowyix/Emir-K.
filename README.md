@@ -5,7 +5,7 @@
         Skills: PYTHON/JAVA/SQL/LUA
         
       🔨 I’m Currently Working On Java,SQL And Cyber Security.
-      🔎I’m Currently Learning Java,C#,Js,SQL
+      🔎 I’m Currently Learning Java,C#,Js,SQL
       📫 How to Reach Me: emirkmv1@gmail.com
       
 
