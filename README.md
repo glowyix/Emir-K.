@@ -7,7 +7,3 @@
       🔨 I’m Currently Working On Java,SQL And Cyber Security.
       🔎 I’m Currently Learning Java,C#,Js,SQL
       📫 How to Reach Me: emirkmv1@gmail.com
-      
-      [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/emirkmv/) 
-
-      
